@@ -1,0 +1,4 @@
+- Hello, I’m @IndiumDrive!
+- I am currently interested in Save Editors and Mods for games like No Mans Sky, Minecraft, and Beat Saber.
+- I am learning JavaScript and C++.
+- I hope to one day create a tool useful for everyone.
